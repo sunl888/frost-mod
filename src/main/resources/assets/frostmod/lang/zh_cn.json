@@ -1,0 +1,11 @@
+{
+  "item.examplemod.custom_item": "神器",
+  "item.examplemod.custom_item.tooltip": "这是一个神器",
+  "item.examplemod.slipper_sword": "拖鞋剑",
+  "item.examplemod.slipper_sword.tooltip": "这是一个拖鞋剑",
+  "examplemod.custom_item_group": "我的背包",
+  "enchantment.examplemod.frost": "减速附魔1",
+  "enchantment.examplemod.fire_boom": "起火爆炸附魔1",
+  "enchantment.examplemod.healing": "治疗效果",
+  "examplemod.custom_command.findbeds": "找到床的位置: X:%d Y:%d Z:%d"
+}

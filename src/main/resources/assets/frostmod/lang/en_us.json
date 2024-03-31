@@ -1,0 +1,11 @@
+{
+  "item.examplemod.custom_item": "my item",
+  "item.examplemod.custom_item.tooltip": "this is god item",
+  "examplemod.custom_item_group": "my bag",
+  "item.examplemod.slipper_sword": "slipper sword",
+  "item.examplemod.slipper_sword.tooltip": "this is slipper sword",
+  "enchantment.examplemod.frost": "frost1",
+  "enchantment.examplemod.fire_boom": "fire boom1",
+  "enchantment.examplemod.healing": "healing",
+  "examplemod.custom_command.findbeds": "find beds pos: X:%d Y:%d Z:%d"
+}
